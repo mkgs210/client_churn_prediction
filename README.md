@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/78417431/216110875-7ea319e7-e531-483f-b8c8-81bc6b2a2d16.png)
 
 
-Блокнот представляет собой решение [соревнования на Kaggle от DeepLearningSchool МФТИ](https://www.kaggle.com/competitions/advanced-dls-spring-2021), 
+Блокнот представляет собой решение [соревнования на Kaggle](https://www.kaggle.com/competitions/advanced-dls-spring-2021) от DeepLearningSchool МФТИ, 
 можете найти меня в лидерборде со скором 0.85448.
 
 Разбор решения представлен на сайте Habr по ссылке: None
