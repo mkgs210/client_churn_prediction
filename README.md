@@ -4,6 +4,6 @@
 Блокнот представляет собой решение [соревнования на Kaggle](https://www.kaggle.com/competitions/advanced-dls-spring-2021) от DeepLearningSchool МФТИ, 
 можете найти меня в лидерборде.
 
-Разбор решения представлен на сайте Habr по ссылке: None
+Разбор решения представлен на сайте [Habr](https://habr.com/ru/post/715070/)
 
 Также ноутбук представлен в [Google Colab](https://drive.google.com/file/d/15Tj6BDPFI832XUX2s8ovDpJJAmYeqWPC/view?usp=sharing)
